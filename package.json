@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-palantir",
+  "version": "0.1.0",
+  "description": "ESLint configuration",
+  "main": ".eslintrc",
+  "scripts": {
+    "test": "eslint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palantir/eslint-config-palantir"
+  },
+  "keywords": [
+    "config",
+    "javascript",
+    "lint",
+    "palantir",
+    "styleguide"
+  ],
+  "author": "Palantir",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "2.5.3"
+  }
+}
