@@ -1,8 +1,8 @@
 {
   "name": "eslint-config-palantir",
-  "version": "0.1.0",
-  "description": "ESLint configuration",
-  "main": ".eslintrc",
+  "version": "1.0.0",
+  "description": "Palantir's ESLint configuration",
+  "main": ".eslintrc.yml",
   "scripts": {
     "test": "eslint test"
   },
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "config",
+    "eslint",
     "javascript",
     "lint",
     "palantir",
