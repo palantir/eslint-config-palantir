@@ -20,7 +20,7 @@ npm install --save-dev eslint-config-palantir
 package:
 
 ```yaml
-extends: "./node_modules/eslint-config-palantir/.eslintrc"
+extends: "./node_modules/eslint-config-palantir/.eslintrc.yml"
 
 rules:
   # Add overrides and additional rules here
