@@ -6,6 +6,10 @@
 
 Linter configuration for [ESLint](http://eslint.org/).
 
+## Maintenance Notice (July 2019)
+
+:warning: This package will be revived in 2019 becasue of the upcoming migration from [TSLint &rarr; ESLint](https://github.com/palantir/tslint/issues/4534). Keep an eye out for [v2.0](https://github.com/palantir/eslint-config-palantir/milestone/1).
+
 ## Deprecation Notice (April 2017)
 
 :warning: __Important__: this package is deprecated and unmaintained. We now use TSLint to lint JS files to keep our builds & configuration simple. Consider migrating to the `tslint:recommended` configuration preset in the `tslint` package.
