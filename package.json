@@ -21,6 +21,6 @@
   "author": "Palantir",
   "license": "Apache-2.0",
   "devDependencies": {
-    "eslint": "2.5.3"
+    "eslint": "6.6.0"
   }
 }
